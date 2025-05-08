@@ -1,6 +1,6 @@
  "Přemýšlíte, jak ozvláštnit rozlučku, oslavu nebo firemní večírek? Zkuste strip show – tady je 5 důvodů proč je lepší než klasická párty."
 
-tags: ["striptýz", "praha", "strip show", "oslava", "zábava"]
+ ["striptýz", "praha", "strip show", "oslava", "zábava"]
 ---
 
 Když plánujete oslavu, máte na výběr – klasická party s DJem, chlebíčky a pivem, nebo něco víc... exkluzivního. Co takhle strip show? Striptýzová vystoupení už dávno nejsou jen pro kluby – dnes jsou součástí rozluček se svobodou, narozenin i firemních akcí. A tady je 5 důvodů, proč je strip show jasnou volbou.
