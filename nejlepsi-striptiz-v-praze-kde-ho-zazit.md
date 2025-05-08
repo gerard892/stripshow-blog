@@ -1,6 +1,5 @@
-description: "Přemýšlíte, jak ozvláštnit rozlučku, oslavu nebo firemní večírek? Zkuste strip show – tady je 5 důvodů proč je lepší než klasická párty."
-pubDate: 2025-04-11
-author: "Striptýz Blog"
+ "Přemýšlíte, jak ozvláštnit rozlučku, oslavu nebo firemní večírek? Zkuste strip show – tady je 5 důvodů proč je lepší než klasická párty."
+
 tags: ["striptýz", "praha", "strip show", "oslava", "zábava"]
 ---
 
