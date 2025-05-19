@@ -1,0 +1,33 @@
+<!-- Rezervační formulář – Luxusní Pražský Striptýz -->
+<h2>Rezervujte si svou show</h2>
+<p>Chcete zažít <a href="https://www.agenturafox.cz/striptyz-praha/" target="_blank">Luxusní Pražský Striptýz: Noční Život, Který Vás Očarí</a>? Vyplňte formulář níže a my se vám co nejdříve ozveme.</p>
+
+<form action="/rezervace-odeslana" method="post">
+  <label for="jmeno">Vaše jméno:</label><br>
+  <input type="text" id="jmeno" name="jmeno" required><br><br>
+
+  <label for="email">E-mail:</label><br>
+  <input type="email" id="email" name="email" required><br><br>
+
+  <label for="telefon">Telefon:</label><br>
+  <input type="tel" id="telefon" name="telefon"><br><br>
+
+  <label for="typ-show">Typ show:</label><br>
+  <select id="typ-show" name="typ-show" required>
+    <option value="">-- Vyberte --</option>
+    <option value="damska">Dámská strip show</option>
+    <option value="panska">Pánská strip show</option>
+    <option value="kombinovana">Kombinovaná show</option>
+  </select><br><br>
+
+  <label for="datum">Datum akce:</label><br>
+  <input type="date" id="datum" name="datum" required><br><br>
+
+  <label for="misto">Místo konání (adresa nebo typ prostoru):</label><br>
+  <textarea id="misto" name="misto" rows="3" required></textarea><br><br>
+
+  <label for="poznamka">Poznámka (volitelné):</label><br>
+  <textarea id="poznamka" name="poznamka" rows="4"></textarea><br><br>
+
+  <button type="submit">Odeslat rezervaci</button>
+</form>
