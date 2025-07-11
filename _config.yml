@@ -1,0 +1,27 @@
+title: "Striptýz Show Blog"
+description: "Blog o striptýzových show, večírcích a nezapomenutelných zážitcích"
+url: "https://stripshow-blog.cz/"
+
+permalink: /:title/
+markdown: kramdown
+theme: minima
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+google_site_verification: "" # můžeš nechat prázdné, pokud používáš ověření přes soubor
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Gerard"
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - sitemap.xml  # přidej, pokud jsi dříve používal ruční sitemapu
