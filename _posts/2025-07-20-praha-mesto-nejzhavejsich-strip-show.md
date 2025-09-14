@@ -2,6 +2,8 @@
 title: "Praha: Město Nejžhavějších Strip Show"
 description: "Praha je evropským centrem nočního života a striptýzu. Objevte adrenalinové show, které vás zvednou ze židle a stanou se vrcholem vaší party."
 permalink: /praha-mesto-nejzhavejsich-strip-show/
+author: "Striptyz Show"
+lang: "cs"
 ---
 
 # Praha: Město Nejžhavějších Strip Show
