@@ -2,8 +2,10 @@
 title: "Sázka na Plzeň! Rozlučka se svobodou"
 description: "Plánujete rozlučku se svobodou v Plzni? Objevte tipy na nejlepší bary, kluby i striptýzové show. Poslední večer svobody v Plzni bude nezapomenutelný!"
 date: 2025-07-21
-categories: [rozlučka, Plzeň, párty, svatba]
-tags: [rozlučka Plzeň, strip show, párty v Plzni]
+keywords: [rozlučka Plzeň, strip show, párty v Plzni]
+permalink: /sazka-na-plzen-rozlucka-se-svobodou/
+author: "Striptyz Show"
+lang: "cs"
 ---
 
 # Sázka na Plzeň! Rozlučka se svobodou
