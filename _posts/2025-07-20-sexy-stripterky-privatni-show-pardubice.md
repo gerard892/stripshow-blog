@@ -2,8 +2,10 @@
 title: "Sexy striptérky na privátní show v Pardubicích – Diskrétní a vzrušující zážitek"
 description: "Chcete nezapomenutelnou noc v Pardubicích? Objednejte si sexy striptérku na privátní show a užijte si profesionální erotický zážitek."
 date: 2025-07-20
-categories: [striptýz, Pardubice, večírek, soukromá show]
-tags: [sexy striptérky, striptýz Pardubice, privátní show]
+keywords: [sexy striptérky, striptýz Pardubice, privátní show]
+permalink: /sexy-stripterky-privatni-show-pardubice/
+author: "Striptyz Show"
+lang: "cs"
 ---
 
 # Sexy striptérky na privátní show v Pardubicích – Diskrétní a vzrušující zážitek
