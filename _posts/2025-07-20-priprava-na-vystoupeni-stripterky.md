@@ -2,6 +2,8 @@
 title: "Jak se připravit na vystoupení striptérky: tipy pro skvělý večer"
 description: "Příprava na vystoupení striptérky může rozhodnout o úspěchu celé akce. Zjistěte, co vše zajistit, aby show proběhla hladce a bez stresu."
 permalink: /priprava-na-vystoupeni-stripterky/
+author: "Striptyz Show"
+lang: "cs"
 ---
 
 # Jak se připravit na vystoupení striptérky: tipy pro skvělý večer
