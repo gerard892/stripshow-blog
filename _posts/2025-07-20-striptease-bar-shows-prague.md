@@ -2,8 +2,10 @@
 title: "Striptease in Prague Bars – The Ultimate Nightlife Experience"
 description: "Explore the best bars in Prague offering striptease shows. Perfect for party nights, bachelor events, or casual fun with friends."
 date: 2025-07-20
-categories: [striptease, Prague, nightlife, bar]
-tags: [striptease Prague, bar shows, party]
+keywords: [striptease Prague, bar shows, party]
+permalink: /striptease-bar-shows-prague/
+author: "Striptyz Show"
+lang: "en"
 ---
 
 # Striptease in Prague Bars – The Ultimate Nightlife Experience
