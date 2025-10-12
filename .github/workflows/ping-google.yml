@@ -1,0 +1,14 @@
+name: Ping Google on Update
+
+on:
+  push:
+    branches:
+      - main  # nebo jiná větev, kterou používáš pro web
+
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Ping Google Sitemap
+        run: |
+          curl "https://www.google.com/ping?sitemap=https://stripshow-blog.cz/sitemap.xml"
